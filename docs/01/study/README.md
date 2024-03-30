@@ -41,3 +41,11 @@
 【4分钟看懂！I2C通讯协议 最简单的总线通讯！】https://www.bilibili.com/video/BV1dg4y1H773?vd_source=33bcedbe2b2c83299996ed742b2f673a  
 2、B站UP主“工科男孙老师”  
 【一起设计一款好用的12V转5V模块吧  第一期：开关电源原理】https://www.bilibili.com/video/BV1Jv411P7Qc?vd_source=33bcedbe2b2c83299996ed742b2f673a  
+
+## 平衡小车资料
+
+STM32平衡车在线学习网站： http://www.xiao-r.com/index.php/Study/catalog/cid/17  密码：【8339792】
+
+STM32平衡车资料百度云加密链接: https://pan.baidu.com/s/1mRNp0QxeI8-KHhCpM6STTg 提取码: 【b6rn】
+
+上位机软件及使用教程链接：https://pan.baidu.com/s/1BMlyz57iGMCO08ru37wIjg 提取码：【jj72】
