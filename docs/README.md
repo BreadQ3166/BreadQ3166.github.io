@@ -12,7 +12,15 @@
 
 ## 校赛目标
 
-    *两轮平衡车*
+    两轮平衡车
+
+## 往年获奖情况
+
+校赛：https://www1.szu.edu.cn/board/view.asp?id=496238
+
+省赛：https://www1.szu.edu.cn/board/view.asp?id=502311
+
+
 
 ## 学习方向(侧重点)
 
