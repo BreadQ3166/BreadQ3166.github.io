@@ -1,11 +1,10 @@
 <!-- docs/_sidebar.md -->
 
-* [首页](README)
-* [操作指南](guide)
+* [项目概况](README)
 
-* 前端技术
-    * [javascript](01/javascript/)
-    * [javascript](01/echarts/)
-* 后端技术
+* [队伍分工](01/work/)
+
+* [学习经验](01/study/)
+
 
 

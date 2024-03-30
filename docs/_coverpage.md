@@ -1,12 +1,12 @@
 <!-- _coverpage.md -->
 
-![logo](logo.jpg)
+<!-- ![log](logo.jpg) -->
 
 # Think About AI 
 
-> 一个神奇的文档网站生成器。
+> 电子设计大赛计划书
 
-- 简单、轻便
+- "快码加编"小队
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](README.md)
+[开始](README.md)
