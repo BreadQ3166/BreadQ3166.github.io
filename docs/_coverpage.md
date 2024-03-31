@@ -10,3 +10,5 @@
 
 [GitHub](https://github.com/docsifyjs/docsify/)
 [开始](README.md)
+
+![logo](_media/logo.jpg)
