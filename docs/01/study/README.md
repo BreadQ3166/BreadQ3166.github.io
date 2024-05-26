@@ -1,15 +1,15 @@
 # 面包的学习经验参考
 
-*1、获取资源渠道；B站、CSDN、github、gitee;*
+1、获取资源渠道；B站、CSDN、github、gitee、淘宝客服;
 
 
 
 
 ## 项目进行建议
-*1、可以在github或gitee上找对应单片机型号的代码套用，先用起来再调试；  
+1、可以在github或gitee上找对应单片机型号的代码套用，先用起来再调试；  
 2、遇到问题，多去各种平台（CSDN、浏览器、B站）上搜集答案，一般都会有；  
 2、尽量将引脚宏定义，方便移植代码；  
-3、可以先不管引脚要求，看看模块与代码是否能成功运行；*
+3、可以先不管引脚要求，看看模块与代码是否能成功运行；
 
 
 
@@ -32,7 +32,7 @@ $$
 
 
 
-### 软件
+### 电控
 
 *1、CSDN博主“修成真”  
 【STM32的标准库和HAL库对照教程】，附上一篇文章的链接https://blog.csdn.net/qq_51447215/article/details/121754119  
@@ -40,7 +40,12 @@ $$
 【STM32HAL库教学】，附上一个视频的链接【【STM32】一看就懂的定时器从模式讲解-哔哩哔哩】 https://b23.tv/6hlb2sK  
 3、CSDN博主“混分巨兽龙某某”  
 【STM32的标准库和HAL库对照教程基于STM32的ADC采样及各式滤波实现（HAL库，含VOFA+教程）】，附上一篇文章的链接https://sneak.blog.csdn.net/article/details/129629485  
-4、B站UP主“_VNNN”  
+
+
+
+### 视觉
+
+1、B站UP主“_VNNN”  
 【OpenMv - 从入门到实战！(寻迹/串口通信/脱机调阈值/模板匹配...)】https://www.bilibili.com/video/BV1b14y1q7ip?vd_source=33bcedbe2b2c83299996ed742b2f673a*  
 
 
