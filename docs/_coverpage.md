@@ -6,9 +6,8 @@
 
 > 电子设计大赛计划书
 
-- "快码加编"小队
+- ""小队
 
 [GitHub](https://github.com/docsifyjs/docsify/)
 [开始](README.md)
 
-![logo](_media/logo.jpg)

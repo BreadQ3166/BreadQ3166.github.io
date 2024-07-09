@@ -32,6 +32,16 @@ $$
 
 
 
+### 综合
+
+1、【【干货教程】单片机项目速成-电赛智能送药小车 STM32HAL库CubeMX+串级PID控制+OpenMV数字识别-哔哩哔哩】 https://b23.tv/3Kmro9Q
+
+2、【提前剧透！2024保姆级电赛攻略指南，掌握核心要点，让你快人一步！-哔哩哔哩】 https://b23.tv/reP313k
+
+3、【分享一下电赛的学习思路[国二]-哔哩哔哩】 https://b23.tv/0mPQ91b
+
+
+
 ### 电控
 
 *1、CSDN博主“修成真”  
@@ -41,7 +51,18 @@ $$
 3、CSDN博主“混分巨兽龙某某”  
 【STM32的标准库和HAL库对照教程基于STM32的ADC采样及各式滤波实现（HAL库，含VOFA+教程）】，附上一篇文章的链接https://sneak.blog.csdn.net/article/details/129629485  
 
+4、无名创新LP-MSPM01306 Mini核心板学习资料
 
+百度网盘链接：https://pan.baidu.com/s/15cBrcGcnmR2-Xe8I8d_AfA 
+提取码：8888
+
+持续更新的例程链接：
+
+https://gitee.com/namelesstech/lp_mspm0l1306_mini_examples
+
+https://gitee.com/namelesstech/lp_mspm0g3507_mini_examples
+
+MSPM0学习技术交流群号：828746221
 
 ### 视觉
 
@@ -60,6 +81,12 @@ $$
 
 *3、B站UP主“Expert电子实验室”  
 【【教程】零基础入门PCB设计-国一学长带你学立创EDA专业版 全程保姆级教学 中文字幕（持续更新中）】https://www.bilibili.com/video/BV1At421h7Ui?p=20&vd_source=33bcedbe2b2c83299996ed742b2f673a*
+
+
+
+### 论文
+
+【2022年电赛，高分电赛报告书写，2022年大学生电子设计竞赛，2022 年 TI 杯省级大学生电子设计竞赛联赛（7 月赛题）-哔哩哔哩】 https://b23.tv/CyPLrH5
 
 
 

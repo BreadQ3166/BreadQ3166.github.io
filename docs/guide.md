@@ -2,7 +2,7 @@
 
 [<<回到首页](/)
 
-![logo](_media/logo.jpg)
+
 
 
 
