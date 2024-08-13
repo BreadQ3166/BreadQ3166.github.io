@@ -1,13 +1,9 @@
 <!-- _coverpage.md -->
 
-<!-- ![log](logo.jpg) -->
+# 面包de个人文档
+> 这是一份面包的学习总结
 
-# Think About AI 
+- Copyright © 2024 8 13 面包的起源 All Rights Reserved.
 
-> 电子设计大赛计划书
-
-- ""小队
-
-[GitHub](https://github.com/docsifyjs/docsify/)
-[开始](README.md)
-
+[小枫社长](https://space.bilibili.com/1100962821)
+[开始阅读](README.md)
