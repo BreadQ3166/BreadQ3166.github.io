@@ -5,5 +5,6 @@
 > 我想把开发过程中的经验总结汇总进这里，还有一些比赛方面的心得与个人的经历。
 >
 > 这篇文档集合了面包的个人开发经验与总结。
+>
 
-![logo_1](D:\BreadGD\BreadQ3166.github.io\docs\_media\logo_1.jpg)
+![logo_1](./_media/logo_1.jpg)
